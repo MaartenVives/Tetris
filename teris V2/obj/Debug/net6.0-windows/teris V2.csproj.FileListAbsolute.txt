@@ -1,0 +1,31 @@
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\teris V2.exe
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\teris V2.deps.json
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\teris V2.runtimeconfig.json
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\teris V2.dll
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\teris V2.pdb
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.csproj.AssemblyReference.cache
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2_MarkupCompile.cache
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2_MarkupCompile.lref
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.g.resources
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.AssemblyInfoInputs.cache
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.AssemblyInfo.cs
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.csproj.CoreCompileInputs.cache
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.dll
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\refint\teris V2.dll
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.pdb
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.genruntimeconfig.cache
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\ref\teris V2.dll
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2_Content.g.cs
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\nolfm\Desktop\oef ict\2de jaar\project ict\teris V2\obj\Debug\net6.0-windows\teris V2.csproj.CopyComplete

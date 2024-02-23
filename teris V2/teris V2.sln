@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teris V2", "teris V2.csproj", "{34068E26-26B4-4666-A0F9-520D43409DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34068E26-26B4-4666-A0F9-520D43409DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34068E26-26B4-4666-A0F9-520D43409DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34068E26-26B4-4666-A0F9-520D43409DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34068E26-26B4-4666-A0F9-520D43409DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE8EA56C-1A99-4363-847A-100F31CFCC3C}
+	EndGlobalSection
+EndGlobal
